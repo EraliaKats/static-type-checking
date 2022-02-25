@@ -20,4 +20,4 @@ jobs:
     - name: Run tests with Jest
       run: yarn test
     - name: Run type-checking
-      run: yarn type check
+      run: yarn type-check
